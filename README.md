@@ -10,7 +10,7 @@ I have prior knowledge in HTML, CSS, JavaScript, Git/GitHub, and computer hardwa
 - Linux & Linux Tools currently [ linux basics ]
 - Cybersecurity: A+, Network+, Security+ currently [ Network + ] 
 - Web Security Awareness
-- 
+
 ###
 
 <h2 align="left">My Learning Repositories</h2>
