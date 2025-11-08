@@ -10,6 +10,17 @@ I have prior knowledge in HTML, CSS, JavaScript, Git/GitHub, and computer hardwa
 - Linux & Linux Tools currently [ linux basics ]
 - Cybersecurity: A+, Network+, Security+ currently [ Network + ] 
 - Web Security Awareness
+- 
+###
+
+<h2 align="left">My Learning Repositories</h2>
+
+<ul>
+  <li><b>html-css-practice:</b> Small exercises and experiments to strengthen my HTML & CSS skills</li>
+  <li><b>javascript-snippets:</b> Mini JavaScript scripts and DOM manipulation practice , problem solving</li>
+  <li><b>linux-commands:</b> Notes, scripts, and tips for learning Linux and shell commands</li>
+  <li><b>cybersecurity-labs:</b> Practice labs, write-ups, and exercises for  Network+, Security+ and more</li>
+</ul>
 
 ## Goals
 - Build web projects and deploy them
