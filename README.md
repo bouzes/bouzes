@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Islam 👋
+Aspiring Full-Stack Developer & Cybersecurity Enthusiast
 
-<!--
-**bouzes/bouzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m currently learning full-stack web development while exploring cybersecurity from scratch.  
+I have prior knowledge in HTML, CSS, JavaScript, Git/GitHub, and computer hardware basics.
 
-Here are some ideas to get you started:
+## Skills I'm Learning
+- Full-Stack Web Development
+- Linux & Linux Tools
+- Cybersecurity: A+, Network+, Security+
+- Web Security Awareness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Build web projects and deploy them
+- Practice cybersecurity labs and penetration testing
+- Become proficient in both web development and security
