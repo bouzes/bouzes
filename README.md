@@ -10,7 +10,6 @@ I already have prior knowledge in **HTML, CSS, JavaScript, and Git/GitHub**, and
 - **Git & GitHub** – version control and repository management  
 - **Full-Stack Web Development** – preparing to Learn React or angular, Node.js, and related tools  
 - **Future Goals:** Linux & Linux Tools, Cybersecurity fundamentals
-
 ###
 
 <h2 align="left">My Learning Repositories</h2>
