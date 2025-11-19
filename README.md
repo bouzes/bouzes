@@ -32,3 +32,4 @@ I already have prior knowledge in **HTML, CSS, JavaScript, and Git/GitHub**, and
 <a href="https://www.linkedin.com/in/nour-bou-16094938b/" target="_blank">LinkedIn</a> • 
 <a href="https://kick.com/bouzeslife" target="_blank">Kick</a>
 </p>
+
