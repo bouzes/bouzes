@@ -20,7 +20,11 @@ I already have prior knowledge in **HTML, CSS, JavaScript, and Git/GitHub**, and
   <li><b><a href="https://github.com/bouzes/linux-commands" target="_blank">linux-commands</a></b>: Repository for when I start practicing Linux (currently empty)</li>
   <li><b><a href="https://github.com/bouzes/cybersecurity-labs" target="_blank">cybersecurity-labs</a></b>: Repository for when I start learning cybersecurity (currently empty)</li>
 </ul>
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5929833" style='border:none;'></iframe>
+
+## Tryhackme
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/BouNISB.png" alt="Your Image Badge" />
+
 
 ## Goals
 - Reboot web development skills with small projects  
