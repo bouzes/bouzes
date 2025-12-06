@@ -1,5 +1,6 @@
 # Hi, I'm Bou
 Aspiring Full-Stack Developer & Web Developer
+
 ## About Me
 I’m currently **rebooting my skills in full-stack web development**.  
 I already have prior knowledge in **HTML, CSS, JavaScript, and Git/GitHub**, and I’m practicing actively to refresh my coding skills.
