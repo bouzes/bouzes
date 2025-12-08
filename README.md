@@ -25,7 +25,6 @@ I already have prior knowledge in **HTML, CSS, JavaScript, and Git/GitHub**, and
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/BouNISB.png" alt="Your Image Badge" />
 
-
 ## Goals
 - Reboot web development skills with small projects  
 - Build and deploy simple web projects  
